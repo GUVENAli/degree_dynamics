@@ -18,5 +18,5 @@ Using the equation above, the degree of the node over time can be estimated.
 Simply run the code of "degree_dynamics.py". Before running, create a folder named "gif". To make "out.gif" file, uncomment the line start with "gif()" in the main in the code. 
 
 ## Output
-![](assests/name-of-giphy.gif)
+![](assets/out.gif)
 
