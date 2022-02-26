@@ -1,0 +1,5 @@
+imageio == 2.16.0
+matplotlib == 3.5.1
+natsort == 8.1.0
+networkx == 2.6.3
+numpy == 1.21.5
